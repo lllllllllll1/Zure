@@ -1,0 +1,2 @@
+# Zure
+Azure Quickstart Templates
